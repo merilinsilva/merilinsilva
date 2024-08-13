@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @merilinsilva
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning MemoryEfficiency in Python and Robotics
-- 📫 How to reach me is by Email
+- 📫 How to reach me is by Email: merilinsousasilva@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
