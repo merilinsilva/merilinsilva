@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @merilinsilva
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning MemoryEfficiency in Python and Robotics
+- 👀 I’m interested in Fine-tuning Models and integration of AI in different fiels
+- 🌱 I’m currently training my machine learning skills and model optimization
 - 📫 How to reach me is by Email: merilinsousasilva@gmail.com
-- 😄 Pronouns: she/her
 
 <!---
 merilinsilva/merilinsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
