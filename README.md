@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merilinsilva
-- 👀 I’m interested in Fine-tuning Models and integration of AI in different fiels
+- 👀 I’m interested in Fine-tuning Models and integration of AI in different fields
 - 🌱 I’m currently training my machine learning skills and model optimization
 - 📫 How to reach me is by Email: merilinsousasilva@gmail.com
 
